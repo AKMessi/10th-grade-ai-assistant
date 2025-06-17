@@ -5,3 +5,4 @@ chromadb
 pypdf
 streamlit
 python-dotenv
+protobuf==3.20.*
